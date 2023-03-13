@@ -1,2 +1,3 @@
 # Assignment
-My python assignment 4th semester
+My Python Assignment 4th semester
+This is a readme description
